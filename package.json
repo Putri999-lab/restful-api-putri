@@ -1,0 +1,32 @@
+{
+  "name": "api-express",
+  "version": "1.0.0",
+  "description": "RESTful API with express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "rest",
+    "express",
+    "api"
+  ],
+  "author": "putri",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Putri999-lab/restful-api-putri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Putri999-lab/restful-api-putri/issues"
+  },
+  "homepage": "https://github.com/Putri999-lab/restful-api-putri#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
+
